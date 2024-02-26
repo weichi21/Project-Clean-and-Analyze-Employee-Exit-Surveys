@@ -24,7 +24,7 @@ Below is a preview of a couple columns from `tafe_survey.csv`:
 - `Record ID`: An id used to identify the participant of the survey.
 - `Reason for ceasing employment`: The reason why the person's employment ended.
 - `LengthofServiceOverall`: Overall Length of Service at Institute (in years): The length of the person's employment (in years).
--
+
 ## Conclusions
 1. Employees with longer service (more than 7 years) are more likely to cite dissatisfaction than those who left earlier.
 2. There is no correlation between gender and dissatisfaction. Both male and female are around 40%.
